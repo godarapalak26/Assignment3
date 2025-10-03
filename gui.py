@@ -179,3 +179,17 @@ class ModelApp(tk.Tk):
 if __name__ == "__main__":
     app = ModelApp()
     app.mainloop()
+
+"""
+Model 1 – Stable Diffusion v2.1
+Publisher: Stability AI
+Category: Text-to-Image
+Description: Generates images from text descriptions.
+Why chosen: Demonstrates multimodal AI capability.
+
+Model 2 – DistilBERT Sentiment Classifier
+Publisher: Hugging Face
+Category: Text Classification
+Description: Analyzes text sentiment (Positive/Negative).
+Why chosen: Lightweight, accurate, and demonstrates NLP integration.
+"""
